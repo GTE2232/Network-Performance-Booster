@@ -13,7 +13,7 @@
     "LAN_Gen1":       { "version": "10.80.50.407",      "targetFolder": "LAN_Gen1",        "driveFileId": "1dyjzWUlEaBuKwUb3Nd6vG4gNMGsh-tt3", "sha256": "639129186ee7d5160514485d0517c675eaf2c4e1012b65d0d28a4e102c43ed77", "sizeBytes": 4962596 },
     "LAN_Gen2":       { "version": "10.80.50.407",      "targetFolder": "LAN_Gen2",        "driveFileId": "1u8wssF9b2HDclYpamoHZtlZzCoMYWBcj", "sha256": "dd9174bdd3c5d7fb5cfacf110a8edc02859ad57eb84e98a391cd27042e01dbfd", "sizeBytes": 4962596 },
 
-    "Wifi_150-300M":  { "version": "1031.39.0106.2027", "targetFolder": "Wifi\\150-300M",  "driveFileId": "15YcSekS0tuxOTBpGGIeTMn-0ayqnLCbv", "sha256": "902838f60fa9f9689d77b80c8bdb751d2e18e781e9417c1a11857707c6a602c7", "sizeBytes": 5348978 },
+    "Wifi_150-300M":  { "version": "1030.39.0106.2026", "targetFolder": "Wifi\\150-300M",  "driveFileId": "15YcSekS0tuxOTBpGGIeTMn-0ayqnLCbv", "sha256": "902838f60fa9f9689d77b80c8bdb751d2e18e781e9417c1a11857707c6a602c7", "sizeBytes": 5348978 },
     "Wifi_600M":      { "version": "1030.39.0106.2026", "targetFolder": "Wifi\\600M",      "driveFileId": "1XkaEaaIsM4oEDBAUyKiDewNVi-d0xIDV", "sha256": "54ae616fb09f0467b1674d1dc5249eea21df1f05f1509ba40f2fbd02a5dbd277", "sizeBytes": 5348858 },
 
     "H61-iGPU":       { "version": "10.18.10.5161",     "targetFolder": "H61\\iGPU",       "driveFileId": "1pmq_RzXHnR-4o9bWoBfClrmINM-LYzFH", "sha256": "4f32dad9a4cc16d899d6d6e591e8d82315f82c8ec919080a308915f9ecfe8c73", "sizeBytes": 125229970 },
@@ -35,7 +35,7 @@
     "H510-GNA":       { "version": "3.5.0.1611",        "targetFolder": "H510\\GNA",       "driveFileId": "1ss_RZh3KXR9O1uRRymWpGgTOBgReQv7b", "sha256": "61602fe105caa964175cccc7df25551e3987e8efe0ba9633feda23569cdedd22", "sizeBytes": 62910     },
     "H510-ME":        { "version": "2632.10.6.0",       "targetFolder": "H510\\ME",        "driveFileId": "1miB0X_sAQSNBI_cu2hZ5rioZJiDDJDYm", "sha256": "168731c30216edc826701caf1217d372c4a37bb9daad2b8bdb62a54a40be43e0", "sizeBytes": 18927272  },
     "H510-SATA":      { "version": "18.37.7.1013",      "targetFolder": "H510\\SATA",      "driveFileId": "1hhYQn6LmkbYoS9NmmJjummnGELPaOznG", "sha256": "f78b7ccaa0282b3773fe1b7990fb6e53bc878db5302ea02669b091bb49dd0e05", "sizeBytes": 18216422  },
-    "H510-SerialIO":  { "version": "31.100.2413.49",    "targetFolder": "H510\\SerialIO",  "driveFileId": "1XEs2RF2vFLC5S_w6TT299pQHdwlfBjhj", "sha256": "a8a2f7446896b9e0d32a0bd18c21636687a5f4f90276f430421beb52357916ac", "sizeBytes": 149230    },
+    "H510-SerialIO":  { "version": "30.100.2413.49",    "targetFolder": "H510\\SerialIO",  "driveFileId": "1XEs2RF2vFLC5S_w6TT299pQHdwlfBjhj", "sha256": "a8a2f7446896b9e0d32a0bd18c21636687a5f4f90276f430421beb52357916ac", "sizeBytes": 149230    },
 
     "H610-DTT":       { "version": "9.1.10005.898",     "targetFolder": "H610\\DTT",       "driveFileId": "1PyDWxcpsLJ68Szl6EeRBr-za7r4CX_sY", "sha256": "3989f96c28372d2a44d73fa79c9e54c57b98534adcddad8c2b0f30244e408066", "sizeBytes": 118525119 },
     "H610-GNA":       { "version": "3.5.0.1611",        "targetFolder": "H610\\GNA",       "driveFileId": "1Pi8iJRmusLdKY9bKHnY06JwlWMqUtMDN", "sha256": "0aa811f908a59f9fcb34f77e25380cc4da43e1e50f5eef277bdc2a0c2aba0020", "sizeBytes": 62910     },
