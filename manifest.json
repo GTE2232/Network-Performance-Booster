@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "updated": "2026-11-25T12:00:00Z",
+  "packages": {
+    "Audio_Gen1":     { "version": "6.0.9239.1",       "targetFolder": "Audio_Gen1",       "driveFileId": "REPLACE_WITH_DRIVE_FILE_ID", "sha256": "", "sizeBytes": 0 },
+    "Chipset_Legacy": { "version": "10.1.1.45",        "targetFolder": "Chipset_Legacy",   "driveFileId": "REPLACE_WITH_DRIVE_FILE_ID", "sha256": "", "sizeBytes": 0 },
+    "Chipset_Modern": { "version": "10.1.20658.8883",        "targetFolder": "Chipset_Modern",   "driveFileId": "REPLACE_WITH_DRIVE_FILE_ID", "sha256": "", "sizeBytes": 0 },
+    "iGPU_6_10":      { "version": "31.0.101.2115",    "targetFolder": "iGPU_6_10",        "driveFileId": "REPLACE_WITH_DRIVE_FILE_ID", "sha256": "", "sizeBytes": 0 },
+    "iGPU_7_10":      { "version": "31.0.101.2141",    "targetFolder": "iGPU_7_10",        "driveFileId": "REPLACE_WITH_DRIVE_FILE_ID", "sha256": "", "sizeBytes": 0 },
+    "iGPU_11_14":     { "version": "32.0.101.7085",    "targetFolder": "iGPU_11_14",       "driveFileId": "REPLACE_WITH_DRIVE_FILE_ID", "sha256": "", "sizeBytes": 0 },
+    "LAN_Gen1":       { "version": "10.80.50.407",   "targetFolder": "LAN_Gen1",         "driveFileId": "REPLACE_WITH_DRIVE_FILE_ID", "sha256": "", "sizeBytes": 0 },
+    "LAN_Gen2":       { "version": "10.80.50.407",   "targetFolder": "LAN_Gen2",         "driveFileId": "REPLACE_WITH_DRIVE_FILE_ID", "sha256": "", "sizeBytes": 0 },
+    "Wifi_150-300M":  { "version": "1030.39.0106.2026","targetFolder": "Wifi\\150-300M",   "driveFileId": "REPLACE_WITH_DRIVE_FILE_ID", "sha256": "", "sizeBytes": 0 },
+    "Wifi_600M":      { "version": "1030.39.0106.2026","targetFolder": "Wifi\\600M",       "driveFileId": "REPLACE_WITH_DRIVE_FILE_ID", "sha256": "", "sizeBytes": 0 },
+
+    "H61-iGPU":       { "version": "10.18.10.5161",    "targetFolder": "H61\\iGPU",        "driveFileId": "REPLACE_WITH_DRIVE_FILE_ID", "sha256": "", "sizeBytes": 0 },
+    "H61-ME":         { "version": "11.0.5.1189",     "targetFolder": "H61\\ME",          "driveFileId": "REPLACE_WITH_DRIVE_FILE_ID", "sha256": "", "sizeBytes": 0 },
+    "H61-SATA":       { "version": "12.9.4.1000",      "targetFolder": "H61\\SATA",        "driveFileId": "REPLACE_WITH_DRIVE_FILE_ID", "sha256": "", "sizeBytes": 0 },
+
+    "H81-iGPU":       { "version": "20.19.15.5171",    "targetFolder": "H81\\iGPU",        "driveFileId": "REPLACE_WITH_DRIVE_FILE_ID", "sha256": "", "sizeBytes": 0 },
+    "H81-ME":         { "version": "11.7.0.1057",     "targetFolder": "H81\\ME",          "driveFileId": "REPLACE_WITH_DRIVE_FILE_ID", "sha256": "", "sizeBytes": 0 },
+    "H81-SATA":       { "version": "14.8.18.1066",     "targetFolder": "H81\\SATA",        "driveFileId": "REPLACE_WITH_DRIVE_FILE_ID", "sha256": "", "sizeBytes": 0 },
+
+    "H110-ME":        { "version": "1828.12.0.1152",     "targetFolder": "H110\\ME",         "driveFileId": "REPLACE_WITH_DRIVE_FILE_ID", "sha256": "", "sizeBytes": 0 },
+    "H110-SATA":      { "version": "16.8.5.1014.5",      "targetFolder": "H110\\SATA",       "driveFileId": "REPLACE_WITH_DRIVE_FILE_ID", "sha256": "", "sizeBytes": 0 },
+    "H110-SerialIO":  { "version": "30.100.1943.2",    "targetFolder": "H110\\SerialIO",   "driveFileId": "REPLACE_WITH_DRIVE_FILE_ID", "sha256": "", "sizeBytes": 0 },
+
+    "H310-ME":        { "version": "2632.10.6.0",     "targetFolder": "H310\\ME",         "driveFileId": "REPLACE_WITH_DRIVE_FILE_ID", "sha256": "", "sizeBytes": 0 },
+    "H310-SATA":      { "version": "17.11.3.1010.2",     "targetFolder": "H310\\SATA",       "driveFileId": "REPLACE_WITH_DRIVE_FILE_ID", "sha256": "", "sizeBytes": 0 },
+    "H310-SerialIO":  { "version": "30.100.2132.2",    "targetFolder": "H310\\SerialIO",   "driveFileId": "REPLACE_WITH_DRIVE_FILE_ID", "sha256": "", "sizeBytes": 0 },
+
+    "H510-GNA":       { "version": "3.5.0.1611",       "targetFolder": "H510\\GNA",        "driveFileId": "REPLACE_WITH_DRIVE_FILE_ID", "sha256": "", "sizeBytes": 0 },
+    "H510-ME":        { "version": "2632.10.6.0",     "targetFolder": "H510\\ME",         "driveFileId": "REPLACE_WITH_DRIVE_FILE_ID", "sha256": "", "sizeBytes": 0 },
+    "H510-SATA":      { "version": "18.37.7.1013",     "targetFolder": "H510\\SATA",       "driveFileId": "REPLACE_WITH_DRIVE_FILE_ID", "sha256": "", "sizeBytes": 0 },
+    "H510-SerialIO":  { "version": "30.100.2413.49",    "targetFolder": "H510\\SerialIO",   "driveFileId": "REPLACE_WITH_DRIVE_FILE_ID", "sha256": "", "sizeBytes": 0 },
+
+    "H610-DTT":       { "version": "9.1.10005.898",  "targetFolder": "H610\\DTT",        "driveFileId": "REPLACE_WITH_DRIVE_FILE_ID", "sha256": "", "sizeBytes": 0 },
+    "H610-GNA":       { "version": "3.5.0.1611",       "targetFolder": "H610\\GNA",        "driveFileId": "REPLACE_WITH_DRIVE_FILE_ID", "sha256": "", "sizeBytes": 0 },
+    "H610-ME":        { "version": "2632.10.6.0",     "targetFolder": "H610\\ME",         "driveFileId": "REPLACE_WITH_DRIVE_FILE_ID", "sha256": "", "sizeBytes": 0 },
+    "H610-SATA":      { "version": "19.5.8.1059.2",     "targetFolder": "H610\\SATA",       "driveFileId": "REPLACE_WITH_DRIVE_FILE_ID", "sha256": "", "sizeBytes": 0 },
+    "H610-SerialIO":  { "version": "30.100.2531.31",    "targetFolder": "H610\\SerialIO",   "driveFileId": "REPLACE_WITH_DRIVE_FILE_ID", "sha256": "", "sizeBytes": 0 }
+  }
+}
