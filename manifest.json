@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-11-25T12:00:00Z",
+  "updated": "2026-11-26T17:53:00Z",
   "packages": {
     "Audio_Gen1":     { "version": "6.0.9239.1",        "targetFolder": "Audio_Gen1",      "driveFileId": "1S6px-_21CmFPxOpIS_1xc6DFh8T3Ty1Y", "sha256": "e1bc59c47985816ede5226be7a8b0e1c1eae3f8bf0deb1c598cb7d871db7b4b8", "sizeBytes": 331169968 },
-    "Chipset_Legacy": { "version": "10.1.1.45",         "targetFolder": "Chipset_Legacy",  "driveFileId": "1v2wyGNzFBqUiAQQpMGpOLNcNpphSblhT", "sha256": "76ed5fb260ecc6ae8f85ad9725ccce752c48d974e29a2b2de1df28271a574b80", "sizeBytes": 4281395   },
-    "Chipset_Modern": { "version": "10.1.20658.8883",   "targetFolder": "Chipset_Modern",  "driveFileId": "14m10hHSQWTYbGZbnkMSsZHXm3EPFljv0", "sha256": "239282683e0c6e13b3d23dec5dd4eef8dbd061f604cf98727ab4b823febcc97a", "sizeBytes": 91436571  },
+    "Chipset_Legacy": { "version": "10.1.1.45",         "targetFolder": "Chipset_Legacy",  "driveFileId": "1v2wyGNzFBqUiAQQpMGpOLNcNpphSblhT", "sha256": "76ed5fb260ecc6ae8f85ad9725ccce752c48d974e29a2b2de1df28271a574b80", "sizeBytes": 4281395 },
+    "Chipset_Modern": { "version": "10.1.20658.8883",   "targetFolder": "Chipset_Modern",  "driveFileId": "14m10hHSQWTYbGZbnkMSsZHXm3EPFljv0", "sha256": "239282683e0c6e13b3d23dec5dd4eef8dbd061f604cf98727ab4b823febcc97a", "sizeBytes": 91436571 },
 
     "iGPU_6_10":      { "version": "31.0.101.2115",     "targetFolder": "iGPU_6_10",       "driveFileId": "1CTQ3q84fBtc4WZt9_8hs__pcU4qhXPja", "sha256": "e33993747f77082ef891a754f3dde15de97b05fb372884a1afd7966765b0113e", "sizeBytes": 522585232 },
     "iGPU_7_10":      { "version": "31.0.101.2141",     "targetFolder": "iGPU_7_10",       "driveFileId": "1hVatQD4jAoxqvnPngAfk_5uZRLUinZow", "sha256": "f8b153eed6ec0ec071532e0f04e38e574a5d7019c2acaeb57084391e517df03d", "sizeBytes": 290689764 },
@@ -18,29 +18,29 @@
 
     "H61-iGPU":       { "version": "10.18.10.5161",     "targetFolder": "H61\\iGPU",       "driveFileId": "1pmq_RzXHnR-4o9bWoBfClrmINM-LYzFH", "sha256": "4f32dad9a4cc16d899d6d6e591e8d82315f82c8ec919080a308915f9ecfe8c73", "sizeBytes": 125229970 },
     "H61-ME":         { "version": "11.0.5.1189",       "targetFolder": "H61\\ME",         "driveFileId": "1-Afp594VaMvRg5d8iCK1jnAWwQPEqWB-", "sha256": "e8594dbccfdf84cf0fc0944679d28e240ca89419604cfd503e71130f58889a26", "sizeBytes": 127900696 },
-    "H61-SATA":       { "version": "12.9.4.1000",       "targetFolder": "H61\\SATA",       "driveFileId": "18N8KFeMPqYkonZZKQbAleI9tKk6PYXfc", "sha256": "53395f60b08fe2289348dd4e0532d8814f25e4c933737de5a6f92ebee380ddff", "sizeBytes": 18422771  },
+    "H61-SATA":       { "version": "12.9.4.1000",       "targetFolder": "H61\\SATA",       "driveFileId": "18N8KFeMPqYkonZZKQbAleI9tKk6PYXfc", "sha256": "53395f60b08fe2289348dd4e0532d8814f25e4c933737de5a6f92ebee380ddff", "sizeBytes": 18422771 },
 
     "H81-iGPU":       { "version": "20.19.15.5171",     "targetFolder": "H81\\iGPU",       "driveFileId": "18nEAqa92UO28q5ZqFhusJC17dtpD4Gmp", "sha256": "50e80b8878a8847c6acf1fdd07f0fe0fbab8bc309b00c1064c72da767fa3ca26", "sizeBytes": 206371410 },
     "H81-ME":         { "version": "11.7.0.1057",       "targetFolder": "H81\\ME",         "driveFileId": "1t5VHjj6QyArI-hrJdoFkeP23nRVXucnh", "sha256": "1b8a30d48f4199f292e7c733a847ca7313e37649501eb86a2cd52c4c94aaceac", "sizeBytes": 108276900 },
-    "H81-SATA":       { "version": "14.8.18.1066",      "targetFolder": "H81\\SATA",       "driveFileId": "1HYhdM4NTV43WaON0_aQTteXVV_nO8ZrF", "sha256": "9c8969307b6211a3a1ff0e123cbc8c7fbe07919078b319242ce702543d56ce4f", "sizeBytes": 13506949  },
+    "H81-SATA":       { "version": "14.8.18.1066",      "targetFolder": "H81\\SATA",       "driveFileId": "1HYhdM4NTV43WaON0_aQTteXVV_nO8ZrF", "sha256": "9c8969307b6211a3a1ff0e123cbc8c7fbe07919078b319242ce702543d56ce4f", "sizeBytes": 13506949 },
 
     "H110-ME":        { "version": "1828.12.0.1152",    "targetFolder": "H110\\ME",        "driveFileId": "17GUuNNFc-7556L6KyVf_4GT_3CIhtRTO", "sha256": "fa7d3e80898fcc821df5593c95c44583d09ebaa56bcdf1d9119e6d020ee1e5be", "sizeBytes": 109545084 },
-    "H110-SATA":      { "version": "16.8.5.1014.5",     "targetFolder": "H110\\SATA",      "driveFileId": "1ifNfqaZERkmSz3IOT-L_hOAjAGHzxaBQ", "sha256": "09cccfe9e56f880f412783bb2cd9e5c49715232a864bf335613bdffce9c2be32", "sizeBytes": 21076700  },
-    "H110-SerialIO":  { "version": "30.100.1943.2",     "targetFolder": "H110\\SerialIO",  "driveFileId": "1M6aDWuFgIrHZbgI7qRvFKa0tqPB9Ecmx", "sha256": "35f34f41a753605fe19bac111cb57a73060d8b7a81364694699c5f588ff0923e", "sizeBytes": 2205030   },
+    "H110-SATA":      { "version": "16.8.5.1014.5",     "targetFolder": "H110\\SATA",      "driveFileId": "1ifNfqaZERkmSz3IOT-L_hOAjAGHzxaBQ", "sha256": "09cccfe9e56f880f412783bb2cd9e5c49715232a864bf335613bdffce9c2be32", "sizeBytes": 21076700 },
+    "H110-SerialIO":  { "version": "30.100.1943.2",     "targetFolder": "H110\\SerialIO",  "driveFileId": "1M6aDWuFgIrHZbgI7qRvFKa0tqPB9Ecmx", "sha256": "35f34f41a753605fe19bac111cb57a73060d8b7a81364694699c5f588ff0923e", "sizeBytes": 2205030 },
 
-    "H310-ME":        { "version": "2632.10.6.0",       "targetFolder": "H310\\ME",        "driveFileId": "1rC4wBwQDNGni2NgTX0XVL4rknUrd8z52", "sha256": "7db4b4250df065e88710d653859ece9bfcc80c5bca406d64927863c58b48f28d", "sizeBytes": 18929228  },
-    "H310-SATA":      { "version": "17.11.3.1010.2",    "targetFolder": "H310\\SATA",      "driveFileId": "1dWantuC8nujHF6VCIfuXI6YsaqFVH-5p", "sha256": "569843e7974fef8b9412ce05034fe7a0c06b16e5418f1399906ac4ea0d6fbd45", "sizeBytes": 7073937   },
-    "H310-SerialIO":  { "version": "30.100.2132.2",     "targetFolder": "H310\\SerialIO",  "driveFileId": "1e1EUSqvKbPPCEC_vOkIfmCuEKYbJirjS", "sha256": "49e6325dc37ff92300d02c067943becba25308546390edb1c61fbb84762ea2f9", "sizeBytes": 141478    },
+    "H310-ME":        { "version": "2632.10.6.0",       "targetFolder": "H310\\ME",        "driveFileId": "1nbvCuSyGpKCNk_DYQ10CAggKpfUWPa06", "sha256": "073b1e3ac1c1ec577f7ab37575a152b06ec210511595cbfbf71f4ddfa0e2fd24", "sizeBytes": 18929601 },
+    "H310-SATA":      { "version": "17.11.3.1010.2",    "targetFolder": "H310\\SATA",      "driveFileId": "1dWantuC8nujHF6VCIfuXI6YsaqFVH-5p", "sha256": "569843e7974fef8b9412ce05034fe7a0c06b16e5418f1399906ac4ea0d6fbd45", "sizeBytes": 7073937 },
+    "H310-SerialIO":  { "version": "30.100.2132.2",     "targetFolder": "H310\\SerialIO",  "driveFileId": "1eqesUijQloJf_SKfQUUzCOhdXRtQPrVa", "sha256": "2eb5927ad7536e5ee386e2c64e084c70007e15a319834ef60cae3c364eb2d43e", "sizeBytes": 141737 },
 
-    "H510-GNA":       { "version": "3.5.0.1611",        "targetFolder": "H510\\GNA",       "driveFileId": "1ss_RZh3KXR9O1uRRymWpGgTOBgReQv7b", "sha256": "61602fe105caa964175cccc7df25551e3987e8efe0ba9633feda23569cdedd22", "sizeBytes": 62910     },
-    "H510-ME":        { "version": "2632.10.6.0",       "targetFolder": "H510\\ME",        "driveFileId": "1miB0X_sAQSNBI_cu2hZ5rioZJiDDJDYm", "sha256": "168731c30216edc826701caf1217d372c4a37bb9daad2b8bdb62a54a40be43e0", "sizeBytes": 18927272  },
-    "H510-SATA":      { "version": "18.37.7.1013",      "targetFolder": "H510\\SATA",      "driveFileId": "1hhYQn6LmkbYoS9NmmJjummnGELPaOznG", "sha256": "f78b7ccaa0282b3773fe1b7990fb6e53bc878db5302ea02669b091bb49dd0e05", "sizeBytes": 18216422  },
-    "H510-SerialIO":  { "version": "30.100.2413.49",    "targetFolder": "H510\\SerialIO",  "driveFileId": "1XEs2RF2vFLC5S_w6TT299pQHdwlfBjhj", "sha256": "a8a2f7446896b9e0d32a0bd18c21636687a5f4f90276f430421beb52357916ac", "sizeBytes": 149230    },
+    "H510-GNA":       { "version": "3.5.0.1611",        "targetFolder": "H510\\GNA",       "driveFileId": "1V8ImhLTN6khp6XrKAXVX0vtXvbV4cLD6", "sha256": "abca6936ac9d5391e193cfaa0ccf2d494d9b2162df415178dd685850638d9f4e", "sizeBytes": 63056 },
+    "H510-ME":        { "version": "2632.10.6.0",       "targetFolder": "H510\\ME",        "driveFileId": "1lXzXR5ROrg_APp2YDhagTUi660BUtbDN", "sha256": "96d0b94bbccf0efbb8e7c07474e3ad33da00a49510183f4f55a1ff72cfeb5bbc", "sizeBytes": 18927642 },
+    "H510-SATA":      { "version": "18.37.7.1013",      "targetFolder": "H510\\SATA",      "driveFileId": "1hhYQn6LmkbYoS9NmmJjummnGELPaOznG", "sha256": "f78b7ccaa0282b3773fe1b7990fb6e53bc878db5302ea02669b091bb49dd0e05", "sizeBytes": 18216422 },
+    "H510-SerialIO":  { "version": "30.100.2413.49",    "targetFolder": "H510\\SerialIO",  "driveFileId": "1-XlqWw5lhcNADnBFbWvvqyXqMn_QcCuf", "sha256": "d8824420b6300fa47e2daa785450059d8a138d218c40c7c3bb4e86230a403bf5", "sizeBytes": 149489 },
 
-    "H610-DTT":       { "version": "9.1.10005.898",     "targetFolder": "H610\\DTT",       "driveFileId": "1PyDWxcpsLJ68Szl6EeRBr-za7r4CX_sY", "sha256": "3989f96c28372d2a44d73fa79c9e54c57b98534adcddad8c2b0f30244e408066", "sizeBytes": 118525119 },
-    "H610-GNA":       { "version": "3.5.0.1611",        "targetFolder": "H610\\GNA",       "driveFileId": "1Pi8iJRmusLdKY9bKHnY06JwlWMqUtMDN", "sha256": "0aa811f908a59f9fcb34f77e25380cc4da43e1e50f5eef277bdc2a0c2aba0020", "sizeBytes": 62910     },
-    "H610-ME":        { "version": "2632.10.6.0",       "targetFolder": "H610\\ME",        "driveFileId": "1eevj1WCa2Jltk4LS6ni_ujtLozkMZ7H6", "sha256": "b5540ce16461c8eb4a2a82932da17df6681d53eb25cfeb3c7981e19165e60279", "sizeBytes": 18929208  },
-    "H610-SATA":      { "version": "19.5.8.1059.2",     "targetFolder": "H610\\SATA",      "driveFileId": "1BPWK7KxzAf3efPEwE5n0JhA2OqB72pzr", "sha256": "dc098e41246a64b867e2d399e9a1993637eb4524e52bda941437a622de31040a", "sizeBytes": 3912807   },
-    "H610-SerialIO":  { "version": "30.100.2531.31",    "targetFolder": "H610\\SerialIO",  "driveFileId": "13lEXKaABdKRtxsBjl9DqdByR8ADF6jk5", "sha256": "68c8a21c6e9c3cd97d58e04ccdd3d311abc6bdc07338de1dc8014fdecfc81220", "sizeBytes": 155043    }
+    "H610-DTT":       { "version": "9.1.10005.898",     "targetFolder": "H610\\DTT",       "driveFileId": "1j2-xzzkB7pbyHV69ygT_TwVU7w2h6fhc", "sha256": "a1200294c5401fb77c308e7895d31859e2c4fbb0bb550857278312166d6d2a73", "sizeBytes": 118525596 },
+    "H610-GNA":       { "version": "3.5.0.1611",        "targetFolder": "H610\\GNA",       "driveFileId": "100PfbYzt1ZN3m-02BgmWcLr7oLM9rbc0", "sha256": "6f5f20b599df973afa3fbb454492188faf938e211603a2b19630bb68beb381a8", "sizeBytes": 63056 },
+    "H610-ME":        { "version": "2632.10.6.0",       "targetFolder": "H610\\ME",        "driveFileId": "1Ya6FBm7QS3M2jOes_r33FKnyDVFKDlmK", "sha256": "1884b8312abcbef67b5e0e160180166ead59ae10eaaa78c37708b3536fbb2bcb", "sizeBytes": 18929578 },
+    "H610-SATA":      { "version": "19.5.8.1059.2",     "targetFolder": "H610\\SATA",      "driveFileId": "1BPWK7KxzAf3efPEwE5n0JhA2OqB72pzr", "sha256": "dc098e41246a64b867e2d399e9a1993637eb4524e52bda941437a622de31040a", "sizeBytes": 3912807 },
+    "H610-SerialIO":  { "version": "30.100.2531.31",    "targetFolder": "H610\\SerialIO",  "driveFileId": "1U_IAfDS0waRpbcLQH91osgFYIeijjBqw", "sha256": "06d32a8f404483e493086647a00295375764fe08ee490695e198857c8761166b", "sizeBytes": 155302 }
   }
 }
